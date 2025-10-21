@@ -1,0 +1,10 @@
+stay hungry
+stay foolish
+
+things are never meant to be explained
+devops
+git
+jenkins
+shell scripting
+linux
+cicd
