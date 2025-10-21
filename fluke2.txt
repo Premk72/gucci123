@@ -1,0 +1,10 @@
+we are learning how to use git
+git has 3 stages 
+first comes working directory - add
+second comes staging - post add/pre commit
+last comes local repo - after commit -m
+in between use git status to check with file stages
+git logs to know sha code.
+now here comes fluke2 
+while learning branching git
+
